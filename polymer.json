@@ -1,0 +1,10 @@
+{
+    "npm": true,
+    "moduleResolution": "node",
+    "entrypoint": "index.html",
+    "shell": "src/components/fancy-application/fancy-application.js",
+    "sources": [
+        "src/**/*",
+        "node_modules/**/*"
+    ]
+}

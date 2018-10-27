@@ -1,0 +1,18 @@
+{
+  "name": "ui-fancy-films",
+  "description": "Filmbases successor",
+  "scripts": {
+    "start": "polymer serve --port 8081"
+  },
+  "dependencies": {
+    "@babel/core": "^7.1.2",
+    "@polymer/app-layout": "^3.0.1",
+    "@polymer/lit-element": "^0.6.1",
+    "@polymer/polymer": "^3.0.5",
+    "@vaadin/vaadin-grid": "^5.2.0-alpha5"
+  },
+  "devDependencies": {
+    "@webcomponents/webcomponentsjs": "^2.0.0",
+    "wct-browser-legacy": "^1.0.0"
+  }
+}
